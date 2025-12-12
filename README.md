@@ -51,3 +51,6 @@ python main.py
 
 # OR via Uvicorn directly
 uvicorn main:app --reload
+```
+* View frontend on <https://localhost:8000> in the browser.
+* Click on `Run Workflow` Button to execute `run_workflow` function of the backend API and fetch response from `/graph/run`
